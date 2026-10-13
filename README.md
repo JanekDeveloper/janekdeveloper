@@ -15,6 +15,12 @@ Mostly backend-focused, with frontend experience.
 - Prefer simple, explicit, and maintainable code
 
 ## 🚀 Featured Project
+### 🍇 [Vitis](https://github.com/VitisMC/Vitis)
+**Vitis** — high-performance Minecraft server written in Go.
+
+### 🍑 [NectarinePanel](https://github.com/JanekDeveloper/NectarinePanel)
+**NectarinePanel** — production-ready self-hosted VPS control panel for deploying apps, bots, Docker workloads, databases, and Minecraft servers with backups and monitoring.
+
 ### 🧠 [Avenir](https://github.com/avenir-lang/avenir)
 **Avenir** is a statically typed programming language built as a  
 technical and educational project.
